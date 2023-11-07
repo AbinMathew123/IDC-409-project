@@ -1,0 +1,7 @@
+Use Google colab to run the code and paste the directory of the data in your g drive before running
+Since the data is heavy only a few people can acess it through github
+Please disable every extension in your browser in case of any error
+
+Here is an emergency g drive link for our work 
+
+https://drive.google.com/drive/folders/1q9m3hW4JEUzeVHIbgVUVzmrzTFCbmhEC
